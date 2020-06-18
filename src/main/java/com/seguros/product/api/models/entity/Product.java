@@ -30,7 +30,7 @@ public class Product implements Serializable{
 	@Column(name = "id_producto")
 	private int id;
 	
-	@Size(max = 20)
+	@Size(min= 3, max = 20)
 	@NotEmpty
 	@Column(name = "nombre_producto")
 	private String name;

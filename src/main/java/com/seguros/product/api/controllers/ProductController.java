@@ -60,11 +60,11 @@ public class ProductController {
 		}
 	}
 	
-	@DeleteMapping
+	@DeleteMapping("/{id}")
 	public ResponseEntity<?> deleteById(@PathVariable int id){
 		try {
 			 productService.deleteById(id);
-			return (ResponseEntity<?>) ResponseEntity.status(HttpStatus.NO_CONTENT);
+			return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
 		} catch (Exception e) {
 			return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR.value()).body(e);
 		}

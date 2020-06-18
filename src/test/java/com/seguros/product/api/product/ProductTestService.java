@@ -27,9 +27,9 @@ public class ProductTestService {
 	@Before
 	public void setUp() throws Exception {
 		product = new Product();
-		product.setName("Borrador");
-//		product.setStock(50);
-//		product.setUnitValue(1000);
+		product.setName("Borrador acacacaca cvacaca bdgdgd hfhfhfh fhfhfhfghfdhdfh fhfhfh dhdhdhdhd fjfjfjfgjg fhjh");
+		product.setStock(70);
+		product.setUnitValue(1000);
 
 	}
 

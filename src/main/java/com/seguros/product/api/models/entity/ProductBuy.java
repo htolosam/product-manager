@@ -1,5 +1,12 @@
 package com.seguros.product.api.models.entity;
 
+/**
+ * Clase para devolver la respuesta cuando se solicita la compra de una 
+ * cantidad de productos, Se creo debido a que en la prueba la respuesta
+ * solicita el total de la compra y los datos del producto
+ * @author leanyspineda
+ * @Since 17-06-2020
+ */
 public class ProductBuy {
 	
 	private Product product;

@@ -1,0 +1,8 @@
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/controllers/ProductController.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/models/services/impl/ProductServiceImpl.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/models/services/IProductService.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/models/entity/Product.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/ProductManagerApplication.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/constant/ErrorConstant.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/models/entity/ProductBuy.java
+/Volumes/datos/leanysp/proyectos/java/sprignboot/product-manager/src/main/java/com/seguros/product/api/models/dao/IProductDao.java
